@@ -1,0 +1,17 @@
+F:\SelfWork\Redirection\Redirection\bin\Release\netcoreapp2.2\Redirection.deps.json
+F:\SelfWork\Redirection\Redirection\bin\Release\netcoreapp2.2\Redirection.runtimeconfig.json
+F:\SelfWork\Redirection\Redirection\bin\Release\netcoreapp2.2\Redirection.runtimeconfig.dev.json
+F:\SelfWork\Redirection\Redirection\bin\Release\netcoreapp2.2\Redirection.dll
+F:\SelfWork\Redirection\Redirection\bin\Release\netcoreapp2.2\Redirection.pdb
+F:\SelfWork\Redirection\Redirection\bin\Release\netcoreapp2.2\huqiang.Server.dll
+F:\SelfWork\Redirection\Redirection\bin\Release\netcoreapp2.2\MsgPack.dll
+F:\SelfWork\Redirection\Redirection\bin\Release\netcoreapp2.2\huqiang.Server.pdb
+F:\SelfWork\Redirection\Redirection\bin\Release\netcoreapp2.2\MsgPack.pdb
+F:\SelfWork\Redirection\Redirection\bin\Release\netcoreapp2.2\MsgPack.xml
+F:\SelfWork\Redirection\Redirection\obj\Release\netcoreapp2.2\Redirection.csprojAssemblyReference.cache
+F:\SelfWork\Redirection\Redirection\obj\Release\netcoreapp2.2\Redirection.csproj.CoreCompileInputs.cache
+F:\SelfWork\Redirection\Redirection\obj\Release\netcoreapp2.2\Redirection.AssemblyInfoInputs.cache
+F:\SelfWork\Redirection\Redirection\obj\Release\netcoreapp2.2\Redirection.AssemblyInfo.cs
+F:\SelfWork\Redirection\Redirection\obj\Release\netcoreapp2.2\Redirection.csproj.CopyComplete
+F:\SelfWork\Redirection\Redirection\obj\Release\netcoreapp2.2\Redirection.dll
+F:\SelfWork\Redirection\Redirection\obj\Release\netcoreapp2.2\Redirection.pdb

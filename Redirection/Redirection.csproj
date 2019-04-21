@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <NoWin32Manifest>true</NoWin32Manifest>
+    <LangVersion>7.3</LangVersion>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="ref\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="huqiang.Server">
+      <HintPath>..\..\huqiang.Server\huqiang.Server\bin\Release\netcoreapp2.1\huqiang.Server.dll</HintPath>
+    </Reference>
+    <Reference Include="MsgPack">
+      <HintPath>ref\MsgPack.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Redirection/1.0.0": {
+        "dependencies": {
+          "huqiang.Server": "1.0.0",
+          "MsgPack": "1.0.0.0"
+        },
+        "runtime": {
+          "Redirection.dll": {}
+        }
+      },
+      "huqiang.Server/1.0.0": {
+        "runtime": {
+          "huqiang.Server.dll": {}
+        }
+      },
+      "MsgPack/1.0.0.0": {
+        "runtime": {
+          "MsgPack.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.228.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Redirection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "huqiang.Server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MsgPack/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
